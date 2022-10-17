@@ -1,9 +1,9 @@
 /*
 Color Palette:
-background color: #303841
-font color: #EEEEEE
-secondary color: #  3A4750
-tertiary color: #   D72323
+background color:#EEEEEE
+font color: #3A4750
+secondary color: #303841
+tertiary color: #D72323
 */
 
 /*CSS syntax notes;
@@ -38,7 +38,7 @@ body {
 }
 
 cite {
-    font-size: 3rem;
+    font-size: 2rem;
 }
 p {
     font-size: 1.2rem;
@@ -62,7 +62,7 @@ p {
 
 .imageCard a {
     text-decoration: none;
-    color: #D72323;
+    color:#D72323;
 }
 
 .cardText {
